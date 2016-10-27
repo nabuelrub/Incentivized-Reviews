@@ -27,10 +27,10 @@ def main():
     print len(promoRev), promoRev[0]
     promoRev = ExtractAppsNames(promoRev,whiteListApps)
     
-__author__ = ""
+__author__ = "Noor Abuelrub"
+__email__ = "nabuelrub@unm.edu"
 __copyright__ = ""
 __license__ = ""
-__email__ = ""
 
 if __name__ == '__main__':
     main()
