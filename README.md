@@ -1,6 +1,6 @@
 # IncentivizedReviews
 
-Detecting Referral Incentives Reviews using NLP techniques. we only provided sample data to show how proposed algorithms work. For full access to data please contact us.
+Detecting Referral Incentives Reviews using NLP techniques. we only provided sample data to show how proposed algorithms work. For full access to data please contact me.
 
 # REQUIREMENTS:
 
