@@ -1,6 +1,7 @@
 # IncentivizedReviews
 
 Detecting Referral Incentives Reviews using NLP techniques. we only provided sample data to show how proposed algorithms work. For full access to data please contact me.
+Paper : https://www.researchgate.net/publication/316608842_Impact_of_Referral_Incentives_on_Mobile_App_Reviews
 
 # REQUIREMENTS:
 
